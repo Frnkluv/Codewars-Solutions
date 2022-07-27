@@ -5,19 +5,27 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BouncingBall", "Codewars Solutions\BouncingBall.csproj", "{A85D960E-48C0-4C2A-9F08-60CE9591E877}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array.diff", "Array.diff\Array.diff.csproj", "{FB85E6CA-6FEF-4232-ABE2-65E2A20FE317}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array.diff", "Array.diff\Array.diff.csproj", "{FB85E6CA-6FEF-4232-ABE2-65E2A20FE317}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "Permutations\Permutations.csproj", "{8649E500-BD4D-4F2A-8F32-492C5316445A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Permutations", "Permutations\Permutations.csproj", "{8649E500-BD4D-4F2A-8F32-492C5316445A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count characters in your string", "Count characters in your string\Count characters in your string.csproj", "{5FFD24A6-2B24-4B45-9786-E75D932E263D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count characters in your string", "Count characters in your string\Count characters in your string.csproj", "{5FFD24A6-2B24-4B45-9786-E75D932E263D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scramblies", "Scramblies\Scramblies.csproj", "{E10D8099-2EC8-4850-93B9-599DB8D1D40E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scramblies", "Scramblies\Scramblies.csproj", "{E10D8099-2EC8-4850-93B9-599DB8D1D40E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum Strings as Numbers", "Sum Strings as Numbers\Sum Strings as Numbers.csproj", "{748088F1-936A-4641-A6E5-D3BC5FE0035B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum Strings as Numbers", "Sum Strings as Numbers\Sum Strings as Numbers.csproj", "{748088F1-936A-4641-A6E5-D3BC5FE0035B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Pig Latin", "Simple Pig Latin\Simple Pig Latin.csproj", "{F7BB78F2-3D6A-45EB-AB39-831CE0B55EB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Pig Latin", "Simple Pig Latin\Simple Pig Latin.csproj", "{F7BB78F2-3D6A-45EB-AB39-831CE0B55EB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roman Numerals Helper", "Roman Numerals Helper\Roman Numerals Helper.csproj", "{57AFE392-FF95-42B5-A2A9-445F0098CF41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roman Numerals Helper", "Roman Numerals Helper\Roman Numerals Helper.csproj", "{57AFE392-FF95-42B5-A2A9-445F0098CF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Your order, please", "Your order, please\Your order, please.csproj", "{1AA420E2-4731-487C-BEAD-C7F9848E5945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum", "Two Sum\Two Sum.csproj", "{52F41064-6559-43A7-BEE6-1DA1426604A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mexican Waves", "Mexican Waves\Mexican Waves.csproj", "{FC37D927-E185-4939-9933-970EF6BEFDF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Build Tower", "Build Tower\Build Tower.csproj", "{D1273852-CEDB-478C-A913-80288B84BC87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +65,22 @@ Global
 		{57AFE392-FF95-42B5-A2A9-445F0098CF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57AFE392-FF95-42B5-A2A9-445F0098CF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57AFE392-FF95-42B5-A2A9-445F0098CF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA420E2-4731-487C-BEAD-C7F9848E5945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA420E2-4731-487C-BEAD-C7F9848E5945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA420E2-4731-487C-BEAD-C7F9848E5945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA420E2-4731-487C-BEAD-C7F9848E5945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F41064-6559-43A7-BEE6-1DA1426604A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F41064-6559-43A7-BEE6-1DA1426604A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F41064-6559-43A7-BEE6-1DA1426604A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F41064-6559-43A7-BEE6-1DA1426604A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC37D927-E185-4939-9933-970EF6BEFDF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC37D927-E185-4939-9933-970EF6BEFDF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC37D927-E185-4939-9933-970EF6BEFDF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC37D927-E185-4939-9933-970EF6BEFDF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1273852-CEDB-478C-A913-80288B84BC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1273852-CEDB-478C-A913-80288B84BC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1273852-CEDB-478C-A913-80288B84BC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1273852-CEDB-478C-A913-80288B84BC87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
